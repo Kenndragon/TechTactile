@@ -17,7 +17,7 @@
                 <a class="nav-link active" aria-current="page" href="/">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/myorders">Order</a>
+                <a class="nav-link" href="/myorders">History</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/cartlist">Cart({{$total}})</a>
